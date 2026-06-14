@@ -1,0 +1,9 @@
+Project Review Meeting
+
+Ajay: API integration should be completed by Friday.
+
+Rahul: I will prepare the testing plan by Wednesday.
+
+Trapti: Candidate interviews will be scheduled tomorrow.
+
+Meeting Ended.
